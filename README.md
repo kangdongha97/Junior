@@ -1,3 +1,4 @@
-# Junior
-Config files for my GitHub profile.
-수정
+이미지 증식
+CNN 모델 구현
+모델 학습
+예측
